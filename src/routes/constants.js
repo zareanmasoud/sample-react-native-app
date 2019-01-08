@@ -1,0 +1,10 @@
+export const APP = 'App';
+export const AUTH = 'Auth';
+export const AUTH_LOADING = 'AuthLoading';
+export const HOME = 'Home';
+export const HANDICRAFTS = 'handicrafts';
+export const PAINTINGS = 'paintings';
+export const LOGIN = 'login';
+export const SIGN_UP = 'sign_up';
+export const ARTWORKS = 'artworks';
+export const SPECIAL_OFFER = 'special_offer';

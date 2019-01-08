@@ -1,0 +1,14 @@
+export const PRIMARY_COLOR = '#2aabb8';
+export const MODAL_SHADOW = '#00000044';
+export const CONTAINER_PADDING = 20;
+export const BACKGROUND_COLOR_LIGHT = '#f0f6f7';
+export const WHITE = '#ffffff';
+export const BLACK = '#000000';
+export const LIGHT_GRAY = '#D3D3D3';
+export const GRAY = '#808080';
+export const BUTTON_BLUE = '#008CBA';
+export const TEXT_INPUT_PADDING = 10;
+export const ACTIVE_STATUS_COLOR = '#C50000';
+export const MEDIUM_FONT_TITLE_SIZE = 18;
+// export const FONT_NAME = 'IRANSansMobile';
+export const BLUE = 'blue';
